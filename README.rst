@@ -5,7 +5,7 @@
     :target: https://codecov.io/gh/pytorch/text
 
 .. image:: http://readthedocs.org/projects/torchtext/badge/?version=latest
-    :target: http://torchtext.readthedocs.io/en/latest/?badge=latest
+    :target: https://pytorch.org/text/
 
 torchtext
 +++++++++
@@ -40,7 +40,7 @@ Alternatively, you might want to use the `Moses <http://www.statmt.org/moses/>`_
 Documentation
 =============
 
-Find the documentation `here <https://torchtext.readthedocs.io/en/latest/index.html>`_.
+Find the documentation `here <https://pytorch.org/text/>`_.
 
 Data
 ====
